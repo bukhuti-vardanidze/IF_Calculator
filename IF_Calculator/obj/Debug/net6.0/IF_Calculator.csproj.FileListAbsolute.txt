@@ -1,0 +1,15 @@
+C:\Users\varda\Desktop\IF_Calculator\IF_Calculator\bin\Debug\net6.0\IF_Calculator.exe
+C:\Users\varda\Desktop\IF_Calculator\IF_Calculator\bin\Debug\net6.0\IF_Calculator.deps.json
+C:\Users\varda\Desktop\IF_Calculator\IF_Calculator\bin\Debug\net6.0\IF_Calculator.runtimeconfig.json
+C:\Users\varda\Desktop\IF_Calculator\IF_Calculator\bin\Debug\net6.0\IF_Calculator.dll
+C:\Users\varda\Desktop\IF_Calculator\IF_Calculator\bin\Debug\net6.0\IF_Calculator.pdb
+C:\Users\varda\Desktop\IF_Calculator\IF_Calculator\obj\Debug\net6.0\IF_Calculator.csproj.AssemblyReference.cache
+C:\Users\varda\Desktop\IF_Calculator\IF_Calculator\obj\Debug\net6.0\IF_Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\varda\Desktop\IF_Calculator\IF_Calculator\obj\Debug\net6.0\IF_Calculator.AssemblyInfoInputs.cache
+C:\Users\varda\Desktop\IF_Calculator\IF_Calculator\obj\Debug\net6.0\IF_Calculator.AssemblyInfo.cs
+C:\Users\varda\Desktop\IF_Calculator\IF_Calculator\obj\Debug\net6.0\IF_Calculator.csproj.CoreCompileInputs.cache
+C:\Users\varda\Desktop\IF_Calculator\IF_Calculator\obj\Debug\net6.0\IF_Calculator.dll
+C:\Users\varda\Desktop\IF_Calculator\IF_Calculator\obj\Debug\net6.0\refint\IF_Calculator.dll
+C:\Users\varda\Desktop\IF_Calculator\IF_Calculator\obj\Debug\net6.0\IF_Calculator.pdb
+C:\Users\varda\Desktop\IF_Calculator\IF_Calculator\obj\Debug\net6.0\IF_Calculator.genruntimeconfig.cache
+C:\Users\varda\Desktop\IF_Calculator\IF_Calculator\obj\Debug\net6.0\ref\IF_Calculator.dll
